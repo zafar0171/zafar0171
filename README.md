@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Modassir</h1>
-<h3 align="center">About me?? Someone who loves foraging through messy datasets in search of significant findings within a specified significance level.</h3>
+<h1 align="center">Hey 👋, I'm Md Modassir</h1>
+<h3 align="center">A Data Science Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zafar0171&label=Profile%20views&color=0e75b6&style=flat" alt="zafar0171" /> </p>
 
